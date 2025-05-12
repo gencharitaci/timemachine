@@ -24,7 +24,7 @@ Surveys from NearMap will be integrated with your own aerials defined in `src/as
 
 ### Clone the project
 ```bash
-git clone https://github.com/tobinbradley/timemachine
+git clone https://github.com/gencharitaci/timemachine
 ```
 
 ### Install dependencies

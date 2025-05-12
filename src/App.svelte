@@ -99,7 +99,7 @@
     </div>
 
     <div class="text-center p-3">
-      <a href="https://github.com/tobinbradley/timemachine" target="_blank"
+      <a href="https://github.com/gencharitaci/timemachine" target="_blank"
       class="px-4 hover:underline">Time Machine on Github</a> &bullet;
       <a href="https://gis.mecknc.gov" target="_blank"
       class="px-4 hover:underline">Mecklenburg County GIS</a>

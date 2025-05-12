@@ -1,9 +1,9 @@
 
 <style>
 /* from https://github.com/loadingio/css-spinner/ */
-.lds-ring {
-  /* position: absolute; */
-}
+/* .lds-ring {
+  position: absolute; 
+} */
 .lds-ring div {
   box-sizing: border-box;
   display: block;
