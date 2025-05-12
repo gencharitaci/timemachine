@@ -2,7 +2,7 @@
 
 Mecklenburg County's Time Machine is a public-facing raster imagery viewer, built with [Svelte](https://svelte.dev/), [TailwindCSS](https://tailwindcss.com/), and [Leaflet](https://leafletjs.com/). The development and build environment is [Vite](https://vitejs.dev/).
 
-Site: [https://timemachine.mcmap.org](https://timemachine.mcmap.org)
+Site: [https://maps.mecklenburgcountync.gov/timemachine](https://maps.mecklenburgcountync.gov/timemachine)
 
 ## Architecture
 
