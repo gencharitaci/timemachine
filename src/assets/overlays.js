@@ -62,14 +62,14 @@ const overlays = {
     }
   ),
   Roads: L.tileLayer(
-    "https://maps.mecknc.gov/geoserver/gwc/service/gmaps?layers=postgis%3Aroads&styles=postgis%3Aroads_aerial_overlay&zoom={z}&x={x}&y={y}&format=image/png",
+    "https://maps.mecklenburgcountync.gov/geoserver/gwc/service/gmaps?layers=postgis%3Aroads&styles=postgis%3Aroads_aerial_overlay&zoom={z}&x={x}&y={y}&format=image/png",
     {
       maxZoom: 22,
       minZoom: 9
     }
   ),
   "Tax Parcels": L.tileLayer(
-    "https://maps.mecknc.gov/geoserver/gwc/service/gmaps?layers=postgis%3Atax_parcels&styles=&zoom={z}&x={x}&y={y}&format=image/png",
+    "https://maps.mecklenburgcountync.gov/geoserver/gwc/service/gmaps?layers=postgis%3Atax_parcels&styles=&zoom={z}&x={x}&y={y}&format=image/png",
     {
       maxZoom: 22,
       minZoom: 17
